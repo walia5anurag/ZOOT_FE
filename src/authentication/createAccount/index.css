@@ -1,0 +1,21 @@
+
+.container{
+    width:80%;
+    margin:auto;
+    border: greenyellow 2px solid;
+   
+}
+div{
+
+    background-image: url("https://images.pexels.com/photos/3052361/pexels-photo-3052361.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+}
+.headingText{
+    background-color:rgb(0, 128, 75);
+    font-size: 6rem;
+    font-weight: bolder;
+}
+.headingSubText{
+    font-size: 2rem;
+    font-weight: 500;
+}
+
