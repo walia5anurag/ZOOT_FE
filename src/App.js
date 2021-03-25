@@ -1,9 +1,9 @@
 import './App.css';
-import CreateAccount from './authentication/createAccount/index'
+import Button from './buttons/hippoButton'
 function App() {
   return (
     <div className="App">
-     <CreateAccount/>
+     <Button/>
     </div>
   );
 }
